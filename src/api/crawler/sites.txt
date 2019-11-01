@@ -1,0 +1,29 @@
+G1 - OK
+Terra - OK
+Globo.com - X
+Globo esporte.com - OK
+IG notícias - OK
+CGN - OK
+Catve.com - OK
+Yahoo notícias - OK
+UOL notícias - OK
+Notícias ao Minuto - OK
+Auto Esporte - OK
+Motor1.com - OK
+TecMundo - OK
+Papo Gula - OK
+O Fuxico - OK
+O Presente - OK
+O Paraná - OK
+R7.COM - OK
+Câmara de Toledo - OK
+Lance - OK
+Canal Rural - OK
+Tudo Interessante - OK
+Gazeta do Povo - OK
+
+Os sites para puxar notícias
+Correio do Lago - OK
+Sonoticiaboa - OK
+EBC Agência Brasil - OK
+Aqui agora.net - OK
