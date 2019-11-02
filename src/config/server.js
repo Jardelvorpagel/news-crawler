@@ -1,4 +1,4 @@
-const port = 3003
+const port = process.env.PORT || 3003
 
 const bodyParser = require('body-parser')
 const express = require('express')
@@ -11,7 +11,7 @@ server.use(bodyParser.urlencoded({
 server.use(bodyParser.json())
 server.use(allowCors)
 
-server.listen(process.env.PORT || port, function () {
+server.listen(port, function () {
     console.log(`BACKEND is running on port ${port}.`)
 })
 
