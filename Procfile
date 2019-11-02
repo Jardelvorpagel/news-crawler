@@ -1,1 +1,1 @@
-web: yarn production -f
+web: yarn dev
