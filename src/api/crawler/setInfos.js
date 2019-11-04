@@ -122,7 +122,7 @@ const sites = {
     },
     'motor1': {
         'url': 'https://motor1.uol.com.br',
-        'timer': 100,
+        'timer': 0,
         'selectors': {
             'list': {
                 'link': '.browseBox > .item > .info > .text-box h3 > a'
