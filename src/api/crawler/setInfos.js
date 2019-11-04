@@ -109,7 +109,7 @@ const sites = {
     },
     'noticiasaominuto': {
         'url': 'https://www.noticiasaominuto.com.br/',
-        'timer': 100,
+        'timer': 1000,
         'selectors': {
             'list': {
                 'link': '.article-thumb-text a'
